@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "522281535724",
+    "project_id": "simple-auth-177603"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522281535724:android:88d90eb86d08f27e",
+        "android_client_info": {
+          "package_name": "com.simpleauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522281535724-8gbpd9c1id9h0hpgnuf5ole7752u9r54.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "522281535724-6tcunlm86eoef8g2thcbtnq5mgkqmn1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simpleauthapp",
+            "certificate_hash": "dcfd03118b1b0f1bcf1feb620e9aa8f2cf79f5d9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx4yweY6WnDt28SPxGX89Asa7gT0NZ_7k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

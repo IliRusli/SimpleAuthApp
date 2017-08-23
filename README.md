@@ -6,4 +6,4 @@ Finally made a simple login app that works on both android and ios. The app inte
 
 - Clone the repository and open the emulator. Then, run these commands:
 - ```npm install```
-- ```react-native run-ios```    OR   ```react-native run-ios```
+- ```react-native run-ios```    OR   ```react-native run-android```
